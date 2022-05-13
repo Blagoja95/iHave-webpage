@@ -1,0 +1,10 @@
+.header-section {
+  background-repeat: no-repeat;
+  background: -webkit-linear-gradient(
+    left,
+    $white-1,
+    $white-1 30%,
+    $white-2 30%,
+    $white-2
+  );
+}

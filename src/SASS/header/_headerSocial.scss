@@ -1,0 +1,19 @@
+.header-social {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.header-social__icon {
+  width: 4rem;
+  height: 4rem;
+}
+
+.header-social__icon--1 {
+  background-image: url("../../images/Group\ 24.svg");
+}
+.header-social__icon--2 {
+  background-image: url("../../images/Group\ 25.svg");
+}
+.header-social__icon--3 {
+  background-image: url("../../images/Group\ 26.svg");
+}
