@@ -1,5 +1,6 @@
 import React from "react";
 import "../SASS/main.scss";
+import Footer from "../Sections/Footer/Foter";
 import Form from "../Sections/Form/Form";
 import Header from "../Sections/Header/Header";
 import Moment from "../Sections/Moment/Moment";
@@ -14,6 +15,7 @@ const App = () => {
       <Moment />
       <Other />
       <Form />
+      <Footer />
     </main>
   );
 };

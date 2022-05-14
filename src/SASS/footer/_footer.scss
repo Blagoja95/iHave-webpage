@@ -1,0 +1,29 @@
+.footer {
+  background-color: $white-2;
+}
+
+.social__btns {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.social__btn {
+  width: 2.4rem;
+  height: 2.4rem;
+  background-repeat: no-repeat;
+}
+
+.social__btn--1 {
+  background-image: url("../../images/Group\ 17.svg");
+}
+.social__btn--2 {
+  background-image: url("../../images/Group\ 18.svg");
+}
+.social__btn--3 {
+  background-image: url("../../images/Group\ 19.svg");
+}
+
+.footer-bottom {
+  background-color: $white-1;
+  height: 11rem;
+}
