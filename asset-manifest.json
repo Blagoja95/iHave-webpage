@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.css": "/iHave-webpage/static/css/main.26cc0a9f.css",
-    "main.js": "/iHave-webpage/static/js/main.685eb86a.js",
+    "main.css": "/iHave-webpage/static/css/main.6b9e4d4e.css",
+    "main.js": "/iHave-webpage/static/js/main.fed52e1c.js",
     "static/media/Mask Group 13.png": "/iHave-webpage/static/media/Mask Group 13.80f4ce1047a473a2395f.png",
     "static/media/Mask Group 7.png": "/iHave-webpage/static/media/Mask Group 7.38255db96e68aa3c4de9.png",
     "static/media/Mask Group 6.png": "/iHave-webpage/static/media/Mask Group 6.b36af71258a20bb33113.png",
+    "static/media/Mask Group 12.png": "/iHave-webpage/static/media/Mask Group 12.2d2af23ba5da8d70e678.png",
+    "static/media/Mask Group 9.png": "/iHave-webpage/static/media/Mask Group 9.76cae7de3ed5ce63fa85.png",
+    "static/media/Mask Group 10.png": "/iHave-webpage/static/media/Mask Group 10.13805ea6efa39fcaa0c3.png",
+    "static/media/Mask Group 11.png": "/iHave-webpage/static/media/Mask Group 11.d7c56c92b8534ccb4a50.png",
+    "static/media/Mask Group 8.png": "/iHave-webpage/static/media/Mask Group 8.150cc5bf68ae3a5a139a.png",
     "static/media/Group 23.png": "/iHave-webpage/static/media/Group 23.962c76cc858377401533.png",
     "static/media/Mask Group 3.png": "/iHave-webpage/static/media/Mask Group 3.e3790e4c470c346bda49.png",
     "static/media/Mask Group 2.png": "/iHave-webpage/static/media/Mask Group 2.7f06ca236d44edb914d8.png",
@@ -17,11 +22,11 @@
     "static/media/Group 24.svg": "/iHave-webpage/static/media/Group 24.e62590de8a765166adcc.svg",
     "static/media/Group 11.svg": "/iHave-webpage/static/media/Group 11.5628c20f96f5a9ee25daddda47cd0afa.svg",
     "static/media/surface1.svg": "/iHave-webpage/static/media/surface1.e75bb5452177af600f1f64f9c95263cd.svg",
-    "main.26cc0a9f.css.map": "/iHave-webpage/static/css/main.26cc0a9f.css.map",
-    "main.685eb86a.js.map": "/iHave-webpage/static/js/main.685eb86a.js.map"
+    "main.6b9e4d4e.css.map": "/iHave-webpage/static/css/main.6b9e4d4e.css.map",
+    "main.fed52e1c.js.map": "/iHave-webpage/static/js/main.fed52e1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.26cc0a9f.css",
-    "static/js/main.685eb86a.js"
+    "static/css/main.6b9e4d4e.css",
+    "static/js/main.fed52e1c.js"
   ]
 }
