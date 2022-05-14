@@ -1,0 +1,23 @@
+.moment {
+  min-height: 86rem;
+  background: transparent url("../../images/Mask\ Group\ 13.png") no-repeat;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.moment__inner {
+  padding-top: 24rem;
+}
+
+.moment__title {
+  max-width: 56rem;
+  line-height: 1.4;
+  margin-bottom: 2.4rem;
+}
+
+.moment__paragraph {
+  max-width: 58rem;
+  margin-bottom: 4rem;
+}

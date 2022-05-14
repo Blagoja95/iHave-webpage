@@ -26,7 +26,6 @@ const HeadphoneProduct = ({ handleAddItem }) => {
 
   const clickSubmit = (e) => {
     e.preventDefault();
-    console.log(e.target);
     // to do
     if (e.target.target === "btn--quantity") return;
 
