@@ -1,4 +1,6 @@
 const SpecCtrl = ({ content, handleClick, id }) => {
+  // const control = document.querySelectorAll(".specification__control");
+
   const setActive = (e) => {
     document
       .querySelectorAll(".specification__control")
@@ -10,7 +12,9 @@ const SpecCtrl = ({ content, handleClick, id }) => {
   return (
     <button
       onClick={(e) => setActive(e)}
-      className="specification__control"
+      className={`specification__control ${
+        id == 1 ? "specification__control--active" : ""
+      }`}
       id={id}
     >
       {content}
