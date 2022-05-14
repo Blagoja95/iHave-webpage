@@ -1,0 +1,47 @@
+.specification {
+  min-height: 86rem;
+  background: transparent url("../../images/Mask\ Group\ 7.png") no-repeat;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.specification__inner {
+  padding-top: 26rem;
+}
+
+.specification__paragraph {
+  max-width: 57.8rem;
+  margin-top: 3rem;
+}
+
+.specification__controls {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid $text;
+}
+
+.specification__control {
+  border: none;
+  background-color: transparent;
+  padding: 2rem;
+
+  color: $black;
+  font-size: 2.4rem;
+  font-weight: medium;
+  border-bottom: 5px solid transparent;
+  transition: all 0.3s;
+
+  position: relative;
+
+  &:hover {
+    cursor: pointer;
+    border-color: $text;
+  }
+
+  &--active {
+    border-color: $orange;
+  }
+}
