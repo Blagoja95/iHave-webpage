@@ -1,0 +1,37 @@
+@media screen and (max-width: 685px) {
+  .footer-bottom__inner {
+    line-height: 1.5;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .social__btn {
+    min-width: 3.4rem;
+    min-height: 3.4rem;
+  }
+
+  .support__call {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sub__title {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 462px) {
+  .footer-top {
+    justify-content: space-evenly;
+    gap: 3rem;
+    padding-bottom: 11rem;
+  }
+
+  .footer__main {
+    justify-content: flex-start;
+    width: 40%;
+  }
+
+  .sub__number {
+  }
+}

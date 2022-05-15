@@ -5,6 +5,7 @@
 .footer-top,
 .footer__main {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .footer-top {
@@ -59,8 +60,8 @@
 }
 
 .social__btn {
-  width: 2.4rem;
-  height: 2.4rem;
+  min-width: 2.4rem;
+  min-height: 2.4rem;
   background-repeat: no-repeat;
 }
 

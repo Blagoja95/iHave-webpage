@@ -78,12 +78,12 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer-bottom">
-        <div className="section footer-bottom__inner">
+        <p className="section footer-bottom__inner">
           Copyright &copy;{" "}
           <span className="footer__span">NENASAL d.o.o 2020</span> All Rights
           Reserved. Powered by
           <span className="footer__span"> NENASAL</span>
-        </div>
+        </p>
       </div>
     </footer>
   );
