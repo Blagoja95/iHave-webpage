@@ -13,6 +13,7 @@
 .other__products {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .product {

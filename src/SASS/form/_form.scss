@@ -10,10 +10,12 @@
 
 .form__content {
   margin-top: 10rem;
+  margin-left: 10%;
+
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  margin-left: 10%;
+  flex-wrap: wrap;
 }
 
 .form__img {

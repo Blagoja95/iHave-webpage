@@ -1,0 +1,21 @@
+@media screen and (max-width: 1251px) {
+  .form__content {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 1182px) {
+  .form {
+    padding-bottom: 10rem;
+  }
+  .form__content {
+    justify-content: space-evenly;
+    gap: 8rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .form__img {
+    max-height: 40rem;
+  }
+}
