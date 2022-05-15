@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/iHave-webpage/static/css/main.ce28ef79.css",
-    "main.js": "/iHave-webpage/static/js/main.b9ad0d6d.js",
+    "main.css": "/iHave-webpage/static/css/main.b73bd26d.css",
+    "main.js": "/iHave-webpage/static/js/main.79f67416.js",
     "static/media/Mask Group 13.png": "/iHave-webpage/static/media/Mask Group 13.80f4ce1047a473a2395f.png",
     "static/media/Mask Group 7.png": "/iHave-webpage/static/media/Mask Group 7.38255db96e68aa3c4de9.png",
     "static/media/Mask Group 6.png": "/iHave-webpage/static/media/Mask Group 6.b36af71258a20bb33113.png",
@@ -26,11 +26,11 @@
     "static/media/Group 24.svg": "/iHave-webpage/static/media/Group 24.e62590de8a765166adcc.svg",
     "static/media/Group 11.svg": "/iHave-webpage/static/media/Group 11.5628c20f96f5a9ee25daddda47cd0afa.svg",
     "static/media/surface1.svg": "/iHave-webpage/static/media/surface1.e75bb5452177af600f1f64f9c95263cd.svg",
-    "main.ce28ef79.css.map": "/iHave-webpage/static/css/main.ce28ef79.css.map",
-    "main.b9ad0d6d.js.map": "/iHave-webpage/static/js/main.b9ad0d6d.js.map"
+    "main.b73bd26d.css.map": "/iHave-webpage/static/css/main.b73bd26d.css.map",
+    "main.79f67416.js.map": "/iHave-webpage/static/js/main.79f67416.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce28ef79.css",
-    "static/js/main.b9ad0d6d.js"
+    "static/css/main.b73bd26d.css",
+    "static/js/main.79f67416.js"
   ]
 }
