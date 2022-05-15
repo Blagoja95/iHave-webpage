@@ -2,7 +2,58 @@
   background-color: $white-2;
 }
 
+.footer-top,
+.footer__main {
+  display: flex;
+}
+
+.footer-top {
+  min-height: 47rem;
+  padding-top: 13rem;
+}
+
+.footer__main {
+  // margin-left: 25%;
+  width: 66%;
+  justify-content: space-around;
+}
+
+.support {
+  width: 33%;
+}
+.footer__title,
+.sub__number {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: $text;
+}
+
+.support__item,
+.about__link,
+.help__link,
+.sub__number {
+  color: $text;
+  text-decoration: none;
+}
+
+.footer__item {
+  list-style: none;
+  margin-top: 1.6rem;
+}
+
+.support__call {
+  display: flex;
+  gap: 0.8rem;
+  margin-top: 3.4rem;
+}
+
+.sub__title {
+  color: $text;
+  font-size: 1.2rem;
+}
+
 .social__btns {
+  margin-top: 1.6rem;
   display: flex;
   gap: 0.8rem;
 }
@@ -23,7 +74,21 @@
   background-image: url("../../images/Group\ 19.svg");
 }
 
+.social__img {
+  margin-top: 4rem;
+}
+
 .footer-bottom {
   background-color: $white-1;
-  height: 11rem;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+}
+
+.footer-bottom__inner {
+  color: $text;
+}
+
+.footer__span {
+  font-weight: 500;
 }
