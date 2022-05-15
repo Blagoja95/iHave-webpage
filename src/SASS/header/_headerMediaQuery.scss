@@ -1,0 +1,71 @@
+@media screen and (max-width: 1403px) {
+  .header-social {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1361px) {
+  .header-section {
+    background: $white-2;
+  }
+
+  .header {
+    justify-content: center;
+    gap: 6rem;
+  }
+
+  .headphone__paragraph {
+    text-align: center;
+  }
+
+  .headphone__price {
+    justify-content: center;
+  }
+
+  .headphone__btns {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap-reverse;
+  }
+
+  .btn--transparent {
+    margin: 0;
+  }
+
+  .headphone__status {
+    padding-left: 20%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .nav__sections {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .headphones__left {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav__inner {
+    justify-content: center;
+  }
+  .nav__logo {
+    display: none;
+  }
+  .headphone__inner {
+    width: 30rem;
+  }
+
+  .price {
+    width: fit-content;
+  }
+
+  .headphone__status {
+    padding-left: 10%;
+  }
+}

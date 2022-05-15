@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .headpones {
@@ -11,6 +12,9 @@
   gap: 2rem;
 }
 
+.headphone {
+  cursor: pointer;
+}
 .headphones__left {
   @extend %fleXBetweenYcenterColumn;
 }
