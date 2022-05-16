@@ -1,5 +1,5 @@
 const SocialBtn = ({ addClass }) => {
-  return <a className={`social-btn ${addClass}`}></a>;
+  return <a className={`social-btn ${addClass}`} href="#"></a>;
 };
 
 export default SocialBtn;

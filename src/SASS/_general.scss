@@ -9,7 +9,6 @@
 
 html {
   font-size: 62.5%;
-  overflow-x: hidden;
 }
 
 body {
@@ -85,4 +84,11 @@ h3 {
     font-size: 4rem !important;
     text-align: center;
   }
+}
+
+header,
+section,
+footer {
+  overflow-x: hidden;
+  width: 100vw;
 }

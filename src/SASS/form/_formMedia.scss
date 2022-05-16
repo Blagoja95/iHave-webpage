@@ -1,5 +1,6 @@
-@media screen and (max-width: 1251px) {
+@media screen and (max-width: 1313px) {
   .form__content {
+    justify-content: center;
     margin-left: 0;
   }
 }
@@ -16,6 +17,11 @@
 
 @media screen and (max-width: 400px) {
   .form__img {
-    max-height: 40rem;
+    max-height: 30rem;
+  }
+
+  .form__input {
+    width: 80%;
+    min-width: 35rem;
   }
 }

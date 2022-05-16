@@ -12,7 +12,11 @@ const Specification = () => {
       <div className="section specification__inner">
         <div className="specification__controls">
           <SpecCtrl content={"Opis"} handleClick={handleClick} id="1" />
-          <SpecCtrl content={"Secifikacije"} handleClick={handleClick} id="2" />
+          <SpecCtrl
+            content={"Specifikacije"}
+            handleClick={handleClick}
+            id="2"
+          />
           <SpecCtrl content={"Ostalo"} handleClick={handleClick} id="3" />
         </div>
         <div className="specification__content">

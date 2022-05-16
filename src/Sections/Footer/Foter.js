@@ -4,7 +4,7 @@ import img2 from "../../images/IHAVE_b85acf60-bcdc-44cf-a63c-62852b15a60a-1.png"
 
 const Footer = () => {
   return (
-    <footer class="footer" id="footer">
+    <footer className="footer" id="footer">
       <div className="section footer-top">
         <div className="support">
           <h2 className="support__title footer__title">KONTAKT I PODRŠKA</h2>
